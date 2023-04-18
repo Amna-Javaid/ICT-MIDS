@@ -1,0 +1,122 @@
+.outer {
+
+    border: 5px solid black;
+    
+
+}
+
+.cover{
+    width: 800px;
+    padding: 80px;
+border: 5px solid blue;
+
+
+}
+.text {
+
+    color: aqua;
+    font-style: normal;
+    text-align: center;
+}
+.a {
+display: inline;
+border: 3px solid green;
+background-color: yellow;
+padding: 2px;
+
+
+
+
+}
+.b {
+    display: inline;
+    border: 3px solid green;
+    background-color: yellow;
+    padding: 2px;
+    
+
+    
+    }
+    .c{
+        display: inline;
+        border: 3px solid green;
+        background-color: yellow;
+        padding: 2px;
+
+        }
+        .d {
+            display: inline;
+            border: 3px solid green;
+            background-color: yellow;
+            padding: 2px;
+            }
+            .e {
+                display: inline;
+                border: 3px solid green;
+                background-color: yellow;
+                padding: 2px;
+                }
+                .content {
+
+                    border: 3px solid red;
+                    width: 500px;
+                    margin: 10px;
+                    padding: 5px;
+                    margin-left: -1px;
+                    
+                    
+                }
+                .q {
+                    color: blue;
+                    text-align: center;
+                }
+                .list {
+                    width: 400px;
+                    border: 5px solid fuchsia;
+                    margin-left: 550px;
+                    margin-top :-370px;
+                    
+                
+
+                }
+                .t {
+                    text-align: center;
+
+                }
+                .item1 {
+                    border: 5px solid greenyellow;
+                    background-color: aquamarine;
+                    text-align: center;
+                    margin: 50px;
+    
+                    
+                }
+                .item2 {
+                    border: 5px solid greenyellow;
+                    background-color: aquamarine;
+                    text-align: center;
+                    margin: 50px;
+                    margin-top: -50px;
+                }
+                .item3 {
+                    border: 5px solid greenyellow;
+                    background-color: aquamarine;
+                    text-align: center;
+                    margin: 50px;
+                    margin-top: -50px;
+                }
+                .item4 {
+                    border: 5px solid greenyellow;
+                    background-color: aquamarine;
+                    text-align: center;
+                    margin: 50px;
+                    margin-top: -50px;
+                }
+                .footer {
+                    border: 2px;
+                    font-size: small;
+                    margin: 20px;
+
+
+
+                }
